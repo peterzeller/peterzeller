@@ -34,7 +34,12 @@ I wrote prototypes of testing libraries to test some ideas regarding API design.
 
 - https://github.com/peterzeller/java-smallcheck An implementation of SmallCheck for Java
 - https://github.com/peterzeller/smallcheck4scala An implementation of SmallCheck for Scala
-- https://github.com/peterzeller/dorEr An Erlang library for testing stateful system with randomized tests with a more intuitive API than QuickCheck or Proper.
+- https://github.com/peterzeller/dorEr An Erlang library for testing stateful systems with randomized tests with a more intuitive API than QuickCheck or Proper.
+- https://github.com/peterzeller/go-stateful-test A Go library for testing stateful systems with randomized (QuickCheck) and exhaustive (SmallCheck) tests. This combines some learnings from the older testing libraries above.
+
+## Functional Programming
+
+- https://github.com/peterzeller/go-fun Functional data structures for Go.
 
 
 ## AST generator
